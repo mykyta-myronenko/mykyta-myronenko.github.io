@@ -1,13 +1,12 @@
 ---
-date published: 2024-09-17
-status: published
-publish: "true"
+date: 2024-09-17
+draft: "false"
 permalink: blender-first-time
+tags:
+  - film-making
+  - 3D-modelling
+  - animation
 ---
-17 Oct 2024
-
-#film #3D-modelling #animation 
-
 For the film I’m currently working on (working title: *[[stuck floating animation project|stuck floating]]*) I’ve decided that the best aesthetic is hybrid animation, combining 3D and 2D techniques.
 
 So I launched blender and for the past week have been learning the ins-and-outs. By now I have a basic grasp on how to box model.

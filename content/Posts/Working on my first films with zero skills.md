@@ -1,15 +1,12 @@
 ---
-date published: 2024-09-16
-publish: "true"
-status: published
+date: 2024-09-16
+draft: "false"
 URL:
   - https://www.mykyta.co.uk/working-on-my-first-films-with-zero-skills
 permalink: first-films-zero-skills
+tags:
+  - film-making
 ---
-16 Sep 2024
-
-#film
-
 One of the films I am currently working on requires 3D animation,[^1] the bad news is that I have nearly zero experience with this. I am very good with CAD 3D modelling, but that’s different from what is necessary for film animation. I’ve made the donut 5 years ago[^2], but most of what I’d learned has been forgotten. In essence, for this project I need to re-learn Blender.
 
 Specifically I will need to learn from scratch:

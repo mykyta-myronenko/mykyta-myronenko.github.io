@@ -1,16 +1,14 @@
 ---
-date published: 2024-10-08
+date: 2024-10-08
 tags:
-  - evergreen
+  - film-making
+  - animation
+  - independent_production
 status: published
 publish: "true"
 permalink: treat-film-like-painting
 description: A short essay about reframing film production for independent creators into a less regimented, more freeing experience.
 ---
-Tue 8 Oct 2024 19:21
-
-#film #animation #independent_production
-
 If you’d ever painted or sculpted, good practical advice is to work on all the little bits for the piece in parallel. You start with lower detail, get the big moves figured out, and while maintaining a consistent resolution of your strokes (or chips? do scultpors chip?), you iteratively progress into a more detailed version. ^metaphor
 
 I like this because you can take as much time, or be as loose as you want, and call it done whenever. A master’s painting looks good at any point of its completion. A mural may be the finished accomplished vision of the artist, and a sketch is also; what matters is intent.

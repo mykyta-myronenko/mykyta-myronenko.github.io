@@ -1,15 +1,13 @@
 ---
 publish: "true"
-status: published
 URL:
   - https://www.mykyta.co.uk/too-anxious-to-create
-date published: 2024-09-16
+date: 2024-09-16
 permalink: too-anxious-to-create
+tags:
+  - film-making
+  - architecture
 ---
-16 Sep 2024
-
-#film #architecture
-
 For over a year I’ve had an itch, a desire at the back of my throat to make things. When I sit down and just start, the nagging thoughts fade away and I become immersed in the process. It’s enjoyable, it is what gives me total freedom, a healthy escape. And being consistently creative is what seems to coincide with “the upswing periods”[^1] in my life.
 
 The only thing that has been stopping me is this cowardly voice in the back of my head. It quickly and almost totally fades away once I start, but in the moments of anticipation, before sit down and make, it’s the loudest.

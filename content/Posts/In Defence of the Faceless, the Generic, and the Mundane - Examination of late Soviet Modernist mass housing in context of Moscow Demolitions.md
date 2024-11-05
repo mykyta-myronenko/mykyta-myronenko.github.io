@@ -1,20 +1,15 @@
 ---
 description: My university dissertation on the Soviet mass housing project.
 tags:
-  - "#university"
+  - architecture
 notes:
   - Originally, this work work was presented as a dissertation during my final year in University of Edinburgh for my Architectural Design Bachelors. It is unfortunately underdeveloped, however, there are still ideas here I am interested in exploring.
   - Is this article too sentimentalist?
   - This article does not tackle the imperialism that comes with mass housing.
-publish: "true"
-status: published
+draft: "false"
 date: 2020-05-30
 permalink: in-defence-of-faceless
 ---
-30 May 2020
-
-#architecture
-
 ## Introduction
 
 Socialist architecture, in particular the industrialised mass housing, has recently become the subject of various concerns, debates and interventions, which spark social reactions and inspire the countless newspaper headlines. The contradictory, but unique phenomenon of Soviet social housing appears to have infinite potential for dividing people on political, aesthetic and emotional basis. USSR architecture, seen by many as a symbol of both the suppression, and dejection of individualism, had also took on the responsibility of fulfilling a colossal social role, settling tens of millions families with _their own_ apartments. Monolithic, massive in scale yet after decades of sub-par maintenance and far past their expiration date these concrete giants are now ephemeral in their mode of existence. The endangered world, full of stories, myths and secrets, heroes and villains, encompassed within the modular panelled walls of these residences, still plays an important social role as housing for the dissonant collective memory and culture.

@@ -1,13 +1,10 @@
 ---
-date published: 2024-10-04
-status: published
+date: 2024-10-04
 publish: "true"
 permalink: internet-killed-tv-sketches
+tags:
+  - film-making
 ---
-Fri 4 Oct 2024 00.01
-
-#film
-
 > [!summary] For context:
 > Originally I wrote this as a comment under Tomska’s “[Who Killed Comedy?](https://www.youtube.com/watch?v=hrEv7gLKoo8)”, but thought it’d be worth sharing here too. The super short video summary is: *with the rise of social media, and Internet video comedy on sites like YouTube and TikTok, we have killed off TV sketch comedy, meaning there might come a time when we will never have the likes of Key & Peele, or Monty Python to enrich our cultural zeitgest*.
 
