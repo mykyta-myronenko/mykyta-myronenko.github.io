@@ -1,7 +1,6 @@
 ---
 date published: 2024-09-22
-status: published
-publish: "true"
+draft: "false"
 description: What is this blog is even about?
 permalink: about
 ---

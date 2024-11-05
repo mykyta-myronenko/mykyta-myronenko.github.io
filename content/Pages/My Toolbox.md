@@ -1,6 +1,6 @@
 ---
 date published: 2024-09-23
-publish: "true"
+draft: "false"
 permalink: tools
 ---
 This is a little post about what software and hardware I use when working on my little films. I'm always curious to know what other people are using, so I thought I'd share, even if only to have this as an inventory list for myself.
