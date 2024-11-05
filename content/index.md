@@ -7,27 +7,3 @@ cssclasses:
 title: Home
 ---
 [[About this blog|About]] · [[Contact]]
-
-# Treat film like painting
-![[Treat film like painting]]
-
-# Did online content kill TV sketch comedy
-![[Did online content kill TV sketch comedy]]
-
-# Astronaut Concept Art
-![[Astronaut Concept Art]]
-
-# What I learned modelling in Blender for the first time
-![[What I learned modelling in Blender for the first time]]
-
-# I will give film making my best shot
-![[I will give film making my best shot]]
-
-# Working on my first films with zero skills
-![[Working on my first films with zero skills]]
-
-# Too anxious to create
-![[Too anxious to create]]
-
-# Older Posts
-- [[In Defence of the Faceless, the Generic, and the Mundane - Examination of late Soviet Modernist mass housing in context of Moscow Demolitions]]
